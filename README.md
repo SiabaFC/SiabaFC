@@ -12,9 +12,4 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SiabaFC&bg&theme=gotham&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<div align="center">
-<p font=LibreFranklin align="centre"><b>Visitors Count</p>  
-<p align="center">
-<img align="center" src="https://profile-counter.glitch.me/{SiabaFC}/count.svg"/></p> 
-</div>
 
