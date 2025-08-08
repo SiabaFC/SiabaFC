@@ -1,6 +1,6 @@
 
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=35&center=true&vCenter=true&width=1000&duration=4000&pause=800&color=66cdaa&random=false&width=1000&lines=Hi!+I+am+Felipe+Siaba;I'm+18+years+old!;I'm+from+Brazil+;Welcome+to+my+profile%3A)
+
 
 <div align="center">  
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=SiabaFC&theme=gotham&show_icons=true&count_private=true&hide_border=true&)]" />
